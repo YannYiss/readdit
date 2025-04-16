@@ -4,14 +4,14 @@ This is a read-only Reddit client made with React and Redux.
 
 ## Technologies used:
 
-*HTML5
-*CSS3
-*Bootstrap
-*Javascript
-*React
-*Redux
-*GIT
-*Reddit API
+* HTML5
+* CSS3
+* Bootstrap
+* Javascript
+* React
+* Redux
+* GIT
+* Reddit API
 
 ## Description:
 
